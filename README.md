@@ -55,8 +55,11 @@ Excel Dashboard
 
 
 
-PowerBI
+PowerBI Dashboard
 
 
 <img width="1321" height="735" alt="image" src="https://github.com/user-attachments/assets/198ff0ef-cf19-4b7a-b6b8-a868f905243b" />
 
+Tableau Dashboard
+
+<img width="1917" height="992" alt="image" src="https://github.com/user-attachments/assets/3dc49535-5cd0-4b8a-874b-a41d735e9bbe" />
